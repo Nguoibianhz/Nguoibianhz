@@ -15,14 +15,13 @@
 ## 🇻🇳 THÔNG TIN CÁ NHÂN - PERSONAL INFO 🇻🇳
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/a5/2f/7e/a52f7ed468dbd95e38ceb40b2d6e6687.jpg" width="400" alt="Coding Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-</div>
-
-<div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=800&pause=1500&color=FF6B6B&multiline=true&width=500&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌐+Bio:+https://hieuvn.xyz/;🔥+Username:+Nguoibianhz;📅+Born:+2011+Age+14;🚀+Status:+Young+Developer;🇻🇳+Location:+Kien+Giang+Vietnam;💖+Passion:+Coding+and+Innovation" alt="Personal Info Animation" />
+      <td align="center">
+        <img src="https://i.pinimg.com/736x/a5/2f/7e/a52f7ed468dbd95e38ceb40b2d6e6687.jpg" width="350" alt="Coding Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+      </td>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=1500&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌐+Bio:+https://hieuvn.xyz/;🔥+Username:+Nguoibianhz;📅+Born:+2011+Age+14;🚀+Status:+Young+Developer;🇻🇳+Location:+Kien+Giang+Vietnam;💖+Passion:+Coding+and+Innovation" alt="Personal Info Animation" />
       </td>
     </tr>
   </table>
