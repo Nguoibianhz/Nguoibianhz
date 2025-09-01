@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=3000&color=FF6B6B&multiline=true&width=500&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌟+Nickname:+Hiếu+Dz;🔥+Username:+Nguoibianhz;📅+Born:+2011+(Age+13);🚀+Status:+Young+Developer;🇻🇳+Location:+Vietnam;💖+Passion:+Coding+%26+Innovation" alt="Personal Info Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=800&pause=1500&color=FF6B6B&multiline=true&width=500&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌟+Nickname:+Hiếu+Dz;🔥+Username:+Nguoibianhz;📅+Born:+2011+(Age+13);🚀+Status:+Young+Developer;🇻🇳+Location:+Vietnam;💖+Passion:+Coding+%26+Innovation" alt="Personal Info Animation" />
       </td>
     </tr>
   </table>
@@ -31,7 +31,7 @@
 ## 🎯 VỀ BẢN THÂN - ABOUT ME
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=1200&pause=2500&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trình+nâng+cao;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;💬+Hỏi+tôi+bất+cứ+điều+gì+về+công+nghệ;📫+Liên+hệ:+Check+repositories+của+tôi;⚡+Fact:+Bắt+đầu+code+từ+rất+sớm!" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=700&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trình+nâng+cao;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;💬+Hỏi+tôi+bất+cứ+điều+gì+về+công+nghệ;📫+Liên+hệ:+Check+repositories+của+tôi;⚡+Fact:+Bắt+đầu+code+từ+rất+sớm!" alt="About Me Animation" />
 </div>
 
 <div align="center">
@@ -60,26 +60,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-## 🔗 KẾT NỐI VỚI TÔI - CONNECT WITH ME
-
-<div align="center">
-  <a href="https://github.com/Nguoibianhz">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=000000" />
-  </a>
-  <img src="https://flagcdn.com/w20/vn.png" alt="Vietnam Flag"/>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://flagcdn.com/w20/vn.png" alt="Vietnam Flag"/>
-  <a href="https://facebook.com/yourprofile">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=2500&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=🇻🇳+Made+with+❤️+in+Vietnam+🇻🇳;📧+Always+ready+to+connect!+📧;🤝+Let's+collaborate+together!+🤝" alt="Contact Animation" />
 </div>
 
 ## 💫 PHẦN VUI - FUN SECTION
@@ -115,6 +95,10 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=800&lines=🇻🇳+Cảm+ơn+bạn+đã+ghé+thăm+profile!+✨;🚀+Hãy+cùng+xây+dựng+tương+lai!+🚀;💻+Vietnam+Strong+-+Code+Strong!+💻;🌸+Chúc+bạn+code+vui+vẻ!+🌸" alt="Footer typing" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=18&duration=2000&pause=1000&color=FFB6C1&center=true&vCenter=true&width=700&lines=💖+Thanks+Claude,+ChatGPT,+Grok(xAI)+For+Helping+Me!+💖;🤖+AI+Assistants+Are+Amazing!+🤖" alt="AI Thanks" />
 </div>
 
 <div align="center">
