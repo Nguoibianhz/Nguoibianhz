@@ -15,10 +15,7 @@
 ## 🇻🇳 THÔNG TIN CÁ NHÂN - PERSONAL INFO 🇻🇳
 
 <div align="center">
-  <video width="300" height="400" controls muted autoplay loop style="border-radius: 10px;">
-    <source src="https://v1.pinimg.com/videos/mc/720p/2d/ad/b3/2dadb3116bea62db7fa6642a29f4bfba.mp4" type="video/mp4">
-    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Fallback animation">
-  </video>
+  <img src="https://i.pinimg.com/736x/a5/2f/7e/a52f7ed468dbd95e38ceb40b2d6e6687.jpg" width="400" alt="Coding Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 </div>
 
 <div align="center">
