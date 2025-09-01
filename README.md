@@ -40,16 +40,6 @@
   <img src="https://flagcdn.com/w40/vn.png" alt="Vietnam Flag"/>
 </div>
 
-## 🏆 THÀNH TÍCH - ACHIEVEMENTS 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nguoibianhz&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=🇻🇳+VIETNAM+DEVELOPER+ON+TOP!+🇻🇳;🔥+CODING+WITH+PRIDE+%26+PASSION+🔥;⭐+YOUNG+BUT+DETERMINED+⭐" alt="Achievement Banner" />
-</div>
-
 ## 🌸 CÂU NÓI HAY - INSPIRATIONAL QUOTES
 
 <div align="center">
@@ -70,12 +60,6 @@
       </td>
     </tr>
   </table>
-</div>
-
-## 🎮 STREAK STATS
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nguoibianhz&theme=radical&background=000000&stroke=FFD700&ring=FF6B6B&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ## 🔗 KẾT NỐI VỚI TÔI - CONNECT WITH ME
