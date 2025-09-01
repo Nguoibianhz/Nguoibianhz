@@ -30,7 +30,7 @@
 ## 🎯 VỀ BẢN THÂN - ABOUT ME
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=700&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trình+nâng+cao;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;💬+Hỏi+tôi+bất+cứ+điều+gì+về+công+nghệ;📫+Liên+hệ:+Check+repositories+của+tôi;⚡+Fact:+Bắt+đầu+code+từ+rất+sớm!" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=700&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trìn;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;❤️+Tôi+làm+mọi+thứ+tôi+thích+về+công+nghệ;📫+Hãy+tham+quan+dự+án+và+bio+của+tôi;⚡+Fact:+Thường+dùng+AI+để+code+hihi!" alt="About Me Animation" />
 </div>
 
 <div align="center">
