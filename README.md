@@ -67,7 +67,7 @@
 <summary>🎮 Khi không code...</summary>
 <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=18&duration=3000&pause=1500&color=FFA07A&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🎵+Nghe+nhạc+Việt+Nam+🎵;🏖️+Du+lịch+khám+phá+đất+nước;📚+Đọc+sách+công+nghệ;🎮+Chơi+game+cùng+bạn+bè" alt="Hobbies Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=18&duration=3000&pause=1500&color=FFA07A&center=true&vCenter=true&multiline=true&width=700&height=120&lines=🎵+Nghe+nhạc+Việt+Nam+🎵;🏖️+Du+lịch+khám+phá+đất+nước;📚+Hoc+bài+với+bạn;🎮+Chơi+game+cùng+bạn+bè" alt="Hobbies Animation" />
   <br><br>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> 
   <em><b>🇻🇳 Tôi yêu thích kết nối với mọi người</b> nên nếu bạn muốn <b>chào hỏi, tôi sẽ rất vui được làm quen!</b> 😊 <b>Vietnam Strong! 🇻🇳</b></em>
