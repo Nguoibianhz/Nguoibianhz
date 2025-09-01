@@ -22,7 +22,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=FF6B6B&multiline=true&width=500&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌟+Nickname:+Hiếu+Dz;🔥+Username:+Nguoibianhz;📅+Born:+2011+(Age+13);🚀+Status:+Young+Developer;🇻🇳+Location:+Vietnam;💖+Passion:+Coding+%26+Innovation" alt="Personal Info Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=1500&pause=3000&color=FF6B6B&multiline=true&width=500&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌟+Nickname:+Hiếu+Dz;🔥+Username:+Nguoibianhz;📅+Born:+2011+(Age+13);🚀+Status:+Young+Developer;🇻🇳+Location:+Vietnam;💖+Passion:+Coding+%26+Innovation" alt="Personal Info Animation" />
       </td>
     </tr>
   </table>
@@ -31,7 +31,7 @@
 ## 🎯 VỀ BẢN THÂN - ABOUT ME
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trình+nâng+cao;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;💬+Hỏi+tôi+bất+cứ+điều+gì+về+công+nghệ;📫+Liên+hệ:+Check+repositories+của+tôi;⚡+Fact:+Bắt+đầu+code+từ+rất+sớm!" alt="About Me Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=1200&pause=2500&color=4ECDC4&center=true&vCenter=true&multiline=true&width=900&height=200&lines=🔭+Hiện+tại+đang+làm+việc+trên+những+dự+án+tuyệt+vời;🌱+Đang+học+lập+trình+nâng+cao;👨‍💻+Tất+cả+dự+án+có+thể+xem+tại+repositories;💬+Hỏi+tôi+bất+cứ+điều+gì+về+công+nghệ;📫+Liên+hệ:+Check+repositories+của+tôi;⚡+Fact:+Bắt+đầu+code+từ+rất+sớm!" alt="About Me Animation" />
 </div>
 
 <div align="center">
@@ -56,7 +56,17 @@
   <table>
     <tr>
       <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=22&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🇻🇳+"Tình+yêu+Tổ+quốc+là+nguồn+sức+mạnh+vô+tận"+🇻🇳;🌸+"Code+với+trái+tim+Việt+Nam"+🌸;✨+"Tuổi+trẻ+tài+cao,+lập+trình+đỉnh+cao"+✨" alt="Vietnamese Quotes" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=24&duration=2000&pause=0&color=FF69B4&center=true&vCenter=true&repeat=false&width=900&height=80&lines=🇻🇳+%22Tình+yêu+Tổ+quốc+là+nguồn+sức+mạnh+vô+tận%22+🇻🇳" alt="Quote 1" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=24&duration=2000&pause=0&color=4ECDC4&center=true&vCenter=true&repeat=false&width=900&height=80&lines=🌸+%22Code+với+trái+tim+Việt+Nam%22+🌸" alt="Quote 2" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=24&duration=2000&pause=0&color=FFD700&center=true&vCenter=true&repeat=false&width=900&height=80&lines=✨+%22Tuổi+trẻ+tài+cao,+lập+trình+đỉnh+cao%22+✨" alt="Quote 3" />
       </td>
     </tr>
   </table>
