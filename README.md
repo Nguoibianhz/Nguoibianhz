@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+Hiếu+Dz+🇻🇳;Chào+mừng+đến+với+thế+giới+code+của+tôi!+✨;Sinh+năm+2011+%7C+Developer+trẻ+tuổi+💻;Username:+Nguoibianhz+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+Hiếu+Dz+🇻🇳;Chào+mừng+đến+với+thế+giới+code+của+tôi!+✨;Sinh+năm+2011+%7C+Developer+trẻ+tuổi+💻;My Website=>+https://hieuvn.xyz/+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -15,14 +15,17 @@
 ## 🇻🇳 THÔNG TIN CÁ NHÂN - PERSONAL INFO 🇻🇳
 
 <div align="center">
-  <img align="right" alt="Coding Vietnam" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+  <video width="400" controls muted autoplay loop>
+    <source src="https://v1.pinimg.com/videos/mc/720p/2d/ad/b3/2dadb3116bea62db7fa6642a29f4bfba.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=800&pause=1500&color=FF6B6B&multiline=true&width=500&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌟+Nickname:+Hiếu+Dz;🔥+Username:+Nguoibianhz;📅+Born:+2011+(Age+13);🚀+Status:+Young+Developer;🇻🇳+Location:+Vietnam;💖+Passion:+Coding+%26+Innovation" alt="Personal Info Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=800&pause=1500&color=FF6B6B&multiline=true&width=500&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌐+Bio:+https://hieuvn.xyz/;🔥+Username:+Nguoibianhz;📅+Born:+2011+(Age+14);🚀+Status:+Young+Developer;🇻🇳+Location:+KienGiang+Vietnam;💖+Passion:+Coding+%26+Innovation" alt="Personal Info Animation" />
       </td>
     </tr>
   </table>
@@ -89,7 +92,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🇻🇳+"Hãy+yêu+nước+như+yêu+từng+nhịp+thở!"🇻🇳;🌟+"Lập+trình+viên+Việt+Nam+luôn+đỉnh+cao"+🌟" alt="Patriotic Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🇻🇳+%22Hãy+yêu+nước+như+yêu+từng+nhịp+thở!%22+🇻🇳;🌟+%22Lập+trình+viên+Việt+Nam+luôn+đỉnh+cao%22+🌟" alt="Patriotic Quote" />
   <p><em><b>🇻🇳 Vietnam Developer - Coding with National Pride 🇻🇳</b></em></p>
 </div>
 
