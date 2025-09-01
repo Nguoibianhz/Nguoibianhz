@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+Hiếu+Dz+🇻🇳;Chào+mừng+đến+với+thế+giới+code+của+tôi!+✨;Sinh+năm+2011+%7C+Developer+trẻ+tuổi+💻;My Website=>+https://hieuvn.xyz/+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+Hiếu+Dz+🇻🇳;Chào+mừng+đến+với+thế+giới+code!+✨;Sinh+năm+2011+Developer+trẻ+tuổi+💻;Website:+https://hieuvn.xyz/+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -15,9 +15,9 @@
 ## 🇻🇳 THÔNG TIN CÁ NHÂN - PERSONAL INFO 🇻🇳
 
 <div align="center">
-  <video width="400" controls muted autoplay loop>
+  <video width="300" height="400" controls muted autoplay loop style="border-radius: 10px;">
     <source src="https://v1.pinimg.com/videos/mc/720p/2d/ad/b3/2dadb3116bea62db7fa6642a29f4bfba.mp4" type="video/mp4">
-    Your browser does not support the video tag.
+    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Fallback animation">
   </video>
 </div>
 
@@ -25,7 +25,7 @@
   <table>
     <tr>
       <td>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=800&pause=1500&color=FF6B6B&multiline=true&width=500&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌐+Bio:+https://hieuvn.xyz/;🔥+Username:+Nguoibianhz;📅+Born:+2011+(Age+14);🚀+Status:+Young+Developer;🇻🇳+Location:+KienGiang+Vietnam;💖+Passion:+Coding+%26+Innovation" alt="Personal Info Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=800&pause=1500&color=FF6B6B&multiline=true&width=500&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌐+Bio:+https://hieuvn.xyz/;🔥+Username:+Nguoibianhz;📅+Born:+2011+Age+14;🚀+Status:+Young+Developer;🇻🇳+Location:+Kien+Giang+Vietnam;💖+Passion:+Coding+and+Innovation" alt="Personal Info Animation" />
       </td>
     </tr>
   </table>
