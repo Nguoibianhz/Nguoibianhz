@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+Hiếu+Dz+🇻🇳;Chào+mừng+đến+với+thế+giới+code!+✨;Sinh+năm+2011+Developer+trẻ+tuổi+💻;Website:+https://hieuvn.xyz/+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+Hiếu+Dz+🇻🇳;Chào+mừng+đến+với+thế+giới+code!+✨;Sinh+năm+2011+Developer+trẻ+tuổi+💻;Website:+https://nguyenmanhhieu.info.vn//+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -21,7 +21,7 @@
         <img src="https://i.pinimg.com/736x/a5/2f/7e/a52f7ed468dbd95e38ceb40b2d6e6687.jpg" width="350" alt="Coding Image" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
       </td>
       <td align="center">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌐+Bio:+https://hieuvn.xyz/;🔥+Username:+Nguoibianhz;📅+Born:+2011+Age+14;🚀+Status:+Young+Developer;🇻🇳+Location:+Kien+Giang+Vietnam;💖+Passion:+Coding+and+Innovation;❤️Crush:LinhNhi" alt="Personal Info Animation" />
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=800&pause=600&color=FF6B6B&multiline=true&width=450&height=300&lines=👤+Name:+Nguyễn+Mạnh+Hiếu;🌐+Bio:+https://nguyenmanhhieu.info.vn//;🔥+Username:+Nguoibianhz;📅+Born:+2011+Age+14;🚀+Status:+Young+Developer;🇻🇳+Location:+Kien+Giang+Vietnam;💖+Passion:+Coding+and+Innovation;❤️Crush:LinhNhi" alt="Personal Info Animation" />
       </td>
     </tr>
   </table>
